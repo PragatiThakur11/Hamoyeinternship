@@ -1,2 +1,2 @@
 # Hamoyeinternship
-Stage A course
+Stage A course - Basic operations on African food dataset 
